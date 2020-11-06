@@ -1,0 +1,3 @@
+FROM octahe-local
+
+COPY Targetfile.local /opt/Targetfile.local
